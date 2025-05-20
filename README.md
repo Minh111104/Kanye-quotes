@@ -19,3 +19,7 @@ This is a simple Tkinter-based Python application that displays random quotes fr
 
 - Open the app and click the Kanye image button.
 - A new Kanye West quote will appear on the screen each time you click the button.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
